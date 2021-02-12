@@ -1,35 +1,35 @@
-# Traducción al español para OpenCart
+# Spanish translation for OpenCart
 
-## Introducción
+## Introduction
 
-Este proyecto partió con la idea de hacer una tienda virtual que nunca vio la luz, donde se alcanzó a hacer esta traducción, la cual quisimos dejar a disposición de quienes la encuentren útil.
+This project started with the idea of ​​making a virtual store that never saw the light, where this translation was achieved, which we wanted to make available to those who find it useful.
 
-## Instrucciones de instalación
+## Installation instructions
 
- 1. Se debe descargar la última versión de OpenCart, junto a la versión correspondiente de esta traducción.
- 2. Se combina el contenido de las carpetas upload de cada descarga y se sube al servidor.
- 3. Se debe realizar la instalación, indicando el servidor, nombre, nombre de usuario y contraseña de la base de datos a ocupar.
- 4. Una vez terminada la instalación, se debe ingresar a la administración.
- 5. Se debe hacer clic en System → Localization → Languages → Add New (signo más).
- 6. Se debe rellenar el formulario con los siguientes datos:
-  - Language Name: Español
+ 1. The latest version of OpenCart must be downloaded, together with the corresponding version of this translation.
+ 2. The content of the upload folders of each download is combined and uploaded to the server.
+ 3. The installation must be carried out, indicating the server, name, username and password of the database to be used.
+ 4. Once the installation is finished, you must enter the administration.
+ 5. Click on System → Localization → Languages ​​→ Add New (plus sign).
+ 6. The form must be filled in with the following information:
+  - Language Name: Spanish
   - Code: es-cl
   - Status: Enabled
   - Sort Order: 1
- 7. Una vez que guardada esta nueva configuración, se debe hacer clic en System → Edit (el ícono del lápiz) → Local.
- 8. Aquí se deben cambiar como mínimo algunos parámetros:
-  - Country: Chile o tu propio país
-  - Region / State: tu propia región o estado
-  - Language: Español
-  - Administration Language: Español
- 9. Se guarda la configuración y ya estará listo.
+ 7. Once these new settings have been saved, click on System → Edit (the pencil icon) → Local.
+ 8. Here at least some parameters must be changed:
+  - Country: Chile or your own country
+  - Region / State: your own region or state
+  - Language: Spanish
+  - Administration Language: Spanish
+ 9. The configuration is saved and you are ready to go.
 
-## Ayuda
+## Help
 
-Puedes visitar nuestros [foros](https://burbuja.cl/foros/) para hacer consultas sobre cualquier cosa relacionada con OpenCart u otras traducciones.
+You can visit our [forums] (https://burbuja.cl/foros/) to ask questions about anything related to OpenCart or other translations.
 
-Para obtener más información sobre esta traducción, puedes visitar la [página del proyecto en Burbuja](https://burbuja.cl/proyectos/opencart/).
+To obtain more information about this translation, you can visit the [Burbuja project page] (https://burbuja.cl/proyectos/opencart/).
  
-## Licencia
+## License
 
-[GNU General Public License version 3 (GPLv3)](https://github.com/burbuja/opencart-spanish/blob/master/LICENSE)
+[GNU General Public License version 3 (GPLv3)] (https://github.com/burbuja/opencart-spanish/blob/master/LICENSE) 
